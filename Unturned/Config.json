@@ -5,6 +5,9 @@
     "Desc_Hint": "",
     "Desc_Full": "",
     "Desc_Server_List": ""
+    "Login_Token": "",
+    "Monetization": "Unspecified",
+    "Links": null
   },
   "Server": {
     "VAC_Secure": true,
